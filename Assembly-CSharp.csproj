@@ -67,6 +67,7 @@
     <Compile Include="Assets\Plugin\BackBink.cs" />
     <Compile Include="Assets\Plugin\BinkVideo.cs" />
     <Compile Include="Assets\Plugin\Singleton.cs" />
+    <Compile Include="Assets\Scripts\BG_Camera.cs" />
     <Compile Include="Assets\Scripts\MainObj.cs" />
     <Compile Include="Assets\Scripts\SystemIo\GameInfo.cs" />
     <Reference Include="UnityEngine">
